@@ -1,7 +1,7 @@
 body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 
-  background-image: url("../imgs/ignasi_pattern_s.png");
+  background-image: url("https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2FsbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80");
 }
 
 html {
@@ -99,7 +99,7 @@ html {
 .about-me-header {
 
   margin-bottom: 33px;
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: Georgia, Times, "Comic Sans", serif;
 
  
   font-size: 32px;
